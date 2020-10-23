@@ -15,7 +15,7 @@ public:
   }
   void print()
   {
-    cout<<real<<"+"<<"i"<<imaginary<<endl;
+    cout<<real<<" + "<<"i"<<imaginary<<endl;
   }
   void plus(ComplexNumbers const &c2)
   {
